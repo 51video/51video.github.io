@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+安卓平台的影视助手，如果你想突破各影视平台VIP的限制、如果你讨厌视频播放前的60秒广告、如果你想免费观看最新电影，请使用桔子影视。更多软件特色请看下方：
 
-[Link to another page](./another-page.html).
+# 软件特色
 
-There should be whitespace between paragraphs.
+1.  各影视平台VIP资源免费看.
+2.  全程无广告，播放时无广告、不等待.
+3.  聚合网上优质资源.
+4.  在线看电视直播.
+5.  嫌手机屏幕小，可投屏到电视上观看.
+6.  加载速度看，边看边加载.
+### 扫码下载
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![二维码](assets/img/erw.png)
+请用浏览器扫码下载，微信无法下载。该软件仅支持安卓，不支持苹果手机
 
-# Header 1
+## 免费定制
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> 本软件可免费定制，送给爱追剧的TA
+> 可定制选项如下：
+> 1、软件的图标，即logo
+> 2、软件的名字
+> 3、软件页面的背景
+> 4、可预留广告位
+> 5、用户统计功能
+> 6、首页布局定制
+> 7、可指定某资源类网站，将网站的资源转换并过滤后在app里显示，比如https://www.meizitu.com/,http://www.k2938.com/
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+### 软件信息.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>大小</dt>
+<dd>3.8M</dd>
+<dt>最新版本</dt>
+<dd>2.0.2</dd>
+<dt>更新时间</dt>
+<dd>2019/12/26</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
