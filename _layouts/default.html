@@ -17,6 +17,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<script type="text/javascript">
+	function weixin() {
+		var ua = navigator.userAgent.toLowerCase();
+		var isWeixin = ua.indexOf('micromessenger') != -1;
+		if(isWeixin){
+			alert('点击右上角按钮，然后在弹出的菜单中，点击在浏览器中打开，即可安装')
+		}else{
+			window.location.href="http://suo.im/6aDvM1"
+		}
+	}
+	</script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
@@ -29,7 +40,7 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="http://suo.im/6aDvM1" class="btn">安卓手机版</a>
+        <a href = "javascript:void(0);" onclick ="javascript:weixin()" class="btn">安卓手机版</a>
         <a href="#" class="btn">安卓TV版</a>
       {% endif %}
     </header>
