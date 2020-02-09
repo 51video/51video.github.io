@@ -37,8 +37,8 @@ layout: default
 <dt>大小</dt>
 <dd>3.8M</dd>
 <dt>最新版本</dt>
-<dd>2.0.2</dd>
+<dd>2.1.3</dd>
 <dt>更新时间</dt>
-<dd>2019/12/26</dd>
+<dd>2020/02/09</dd>
 </dl>
 
